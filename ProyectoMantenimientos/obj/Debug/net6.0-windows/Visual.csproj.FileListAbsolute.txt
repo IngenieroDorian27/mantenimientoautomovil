@@ -1,0 +1,152 @@
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.exe
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.deps.json
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.runtimeconfig.json
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\ProyectoMantenimientos.Form1.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.GenerateResource.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CopyComplete
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\refint\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.genruntimeconfig.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\ref\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroCliente.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMantenimiento.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMecanico.resources
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.exe
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.deps.json
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.runtimeconfig.json
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\ProyectoMantenimientos.Form1.resources
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroCliente.resources
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMantenimiento.resources
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMecanico.resources
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.GenerateResource.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\refint\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.genruntimeconfig.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\ProyectoMantenimientos\obj\Debug\net6.0-windows\ref\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.exe
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.deps.json
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.runtimeconfig.json
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\ProyectoMantenimientos.Form1.resources
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroCliente.resources
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMantenimiento.resources
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMecanico.resources
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.GenerateResource.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\refint\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.genruntimeconfig.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\ref\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.Properties.Resources.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.exe
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.deps.json
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.runtimeconfig.json
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\ProyectoMantenimientos.Form1.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.Properties.Resources.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroCliente.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMantenimiento.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMecanico.resources
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.GenerateResource.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CopyComplete
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\refint\Visual.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.genruntimeconfig.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\ref\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.exe
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.deps.json
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.runtimeconfig.json
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\ProyectoMantenimientos.Form1.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroCliente.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMantenimiento.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMecanico.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.GenerateResource.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\refint\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.genruntimeconfig.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\ProyectoMantenimientos\obj\Debug\net6.0-windows\ref\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.exe
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.deps.json
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.runtimeconfig.json
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\ProyectoMantenimientos.Form1.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroCliente.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMantenimiento.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.RegistroMecanico.resources
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.GenerateResource.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\refint\Visual.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\Visual.genruntimeconfig.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\ProyectoMantenimientos\obj\Debug\net6.0-windows\ref\Visual.dll

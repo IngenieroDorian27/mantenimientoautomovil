@@ -1,0 +1,90 @@
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\bin\Debug\net6.0\Control.deps.json
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\bin\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\bin\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\bin\Debug\net6.0\Model.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\bin\Debug\net6.0\Model.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.csproj.CopyComplete
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoParcial1\Control\obj\Debug\net6.0\ref\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\bin\Debug\net6.0\Control.deps.json
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\bin\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\bin\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\bin\Debug\net6.0\Model.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\bin\Debug\net6.0\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Correcion\Control\obj\Debug\net6.0\ref\Control.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.deps.json
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\bin\Debug\net6.0\Model.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\bin\Debug\net6.0\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\ProyectoP1_POE\Control\obj\Debug\net6.0\ref\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.deps.json
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\bin\Debug\net6.0\Model.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\bin\Debug\net6.0\Model.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.CopyComplete
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Documentos\Proyectos C#\ProyectoP1_POE\Control\obj\Debug\net6.0\ref\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.deps.json
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\bin\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\bin\Debug\net6.0\Model.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\bin\Debug\net6.0\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_POE\Control\obj\Debug\net6.0\ref\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\bin\Debug\net6.0\Control.deps.json
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\bin\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\bin\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\bin\Debug\net6.0\Model.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\bin\Debug\net6.0\Model.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.csproj.CopyComplete
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\Control.pdb
+C:\Users\doria\OneDrive\Escritorio\Entrega Proyc POE\ProyectoP1_Grupo#9\Control\obj\Debug\net6.0\ref\Control.dll
